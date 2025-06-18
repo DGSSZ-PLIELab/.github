@@ -8,7 +8,7 @@ United Team of Senior High School Student from China
 - 东莞市长安中学
 
 ## Blog:
-[OpenMind·Researcher](openmind-research.github.io)
+[OpenMind·Researcher](https://openmind-research.github.io)
 
 ## Contact Us:
 If you have more better suggestions or wanna join us, feel free to contact us with your resume~
