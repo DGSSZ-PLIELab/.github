@@ -8,8 +8,9 @@
 - 希望更有挑战性：可以加入由中国科学院软件所、北京大学、电科大等高校&研究所学生组成的社群一起交流二进制安全
 - 对数学和Coding都同时感兴趣 ===> 密码学Crypto 优势同上
 - 几乎涵盖了所有计算机安全领域的Misc 同上
-- 有一定编程功底但是不会OI？ 黑客松走起，Show me your idea
+- 有一定编程功底但是不会OI？ 黑客松走起，Show me your idea（可以和河北大学的本科生一起组队学习竞赛）
 - 还有其他等你来发掘的方向~
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DGSSLNO-13HS&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 开放包容，兼收并蓄
